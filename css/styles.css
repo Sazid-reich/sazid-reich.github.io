@@ -1,0 +1,53 @@
+body {
+    text-align: center;
+    margin: 4%;
+    margin-top: 1%;
+}
+.left {
+    /* padding: 3%; */
+    /* border: 1px solid; */
+    background-color: aliceblue;
+    margin-bottom: 3% ;
+    height: auto;
+}
+
+.profile_pic {
+    width: 30%;
+    /* border-radius: 100%; */
+    margin-top: 10%;
+}
+
+h1 {
+    font-family: 'Peralta', cursive;
+    font-weight: bold;
+    padding: 5% 5% 2% 5%;
+}
+
+h3 {
+    font-family: 'Alkalami', serif;
+}
+
+.email-button:hover {
+    background-color: #fff;
+    color: black;
+}
+
+.email-button {
+    margin: 3%;
+}
+
+.social_icons {
+    margin: 2%;
+    margin-top: 8%;
+    color: black;
+}
+
+.about_me {
+    font-size: 60px;
+    font-weight: bold;
+    text-align:justify;
+}
+
+.about_details {
+    text-align: left;
+}
